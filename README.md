@@ -7,3 +7,8 @@ Also, it uses <b>Multi Threading</b> to speed up the process.
   </p>
 <h1>Code Run</h1>
 Simply clone the repo and run the python file
+
+<h1>What can the code do?</h1>
+<ul>It can scrape product details of the women's clothes. You can provide the page range you want to scrape.</ul>
+<ul>You can change the number of multi-threading operations.</ul>
+<ul>It uses a new IP address for every page it scrapes, thereby avoiding blockage by Nordstrom.</ul>
